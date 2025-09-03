@@ -1,0 +1,16 @@
+{
+  "cron": [
+    {
+      "name": "schedule-draws",
+      "schedule": "0 * * * *",
+      "function": "schedule-draws",
+      "description": "Schedule new draws every hour"
+    },
+    {
+      "name": "run-draws",
+      "schedule": "0 * * * *",
+      "function": "run-draws",
+      "description": "Execute draws at the top of each hour"
+    }
+  ]
+}

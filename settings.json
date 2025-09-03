@@ -1,0 +1,127 @@
+{
+  "pageProps": {
+    "initialApolloState": {},
+    "experimentationConfig": {
+      "__typename": "ExperimentationQuery",
+      "userConfig": { "experiments": [], "namespaces": [] },
+      "deviceConfig": { "experiments": [], "namespaces": [] },
+      "deviceExperimentationUnit": "2600:1900:0:2d07::2101"
+    },
+    "currentUser": {
+      "__typename": "User",
+      "id": "42907097-abb3-48d0-bc47-a46f286ba939",
+      "username": "inzamamvirk",
+      "firstName": "",
+      "lastName": "",
+      "fullName": null,
+      "isExpoAdmin": false,
+      "primaryAccount": {
+        "__typename": "Account",
+        "id": "0737dd5b-b7c5-4e49-9ec7-e1b836888be7",
+        "name": "inzamamvirk",
+        "profileImageUrl": "https://s.gravatar.com/avatar/87d7432982366f3bf92f25b9d6b5bf5b?s=480&r=pg&d=https%3A%2F%2Fstorage.googleapis.com%2Fexpo-website-default-avatars%2Fi-2x.png",
+        "displayName": "inzamamvirk"
+      },
+      "accounts": [
+        {
+          "__typename": "Account",
+          "id": "0737dd5b-b7c5-4e49-9ec7-e1b836888be7",
+          "name": "inzamamvirk",
+          "isDisabled": false,
+          "createdAt": "2025-08-23T09:20:15.968Z",
+          "displayName": "inzamamvirk",
+          "profileImageUrl": "https://s.gravatar.com/avatar/87d7432982366f3bf92f25b9d6b5bf5b?s=480&r=pg&d=https%3A%2F%2Fstorage.googleapis.com%2Fexpo-website-default-avatars%2Fi-2x.png",
+          "ownerUserActor": {
+            "__typename": "User",
+            "id": "42907097-abb3-48d0-bc47-a46f286ba939",
+            "fullName": null,
+            "username": "inzamamvirk",
+            "primaryAccountProfileImageUrl": "https://s.gravatar.com/avatar/87d7432982366f3bf92f25b9d6b5bf5b?s=480&r=pg&d=https%3A%2F%2Fstorage.googleapis.com%2Fexpo-website-default-avatars%2Fi-2x.png",
+            "email": "extra69107@gmail.com"
+          },
+          "viewerUserPermission": {
+            "__typename": "UserPermission",
+            "permissions": [],
+            "role": "CUSTOM",
+            "userActor": {
+              "__typename": "User",
+              "id": "42907097-abb3-48d0-bc47-a46f286ba939",
+              "created": "2025-08-23T09:20:15.968Z",
+              "firstName": "",
+              "lastName": "",
+              "displayName": "inzamamvirk",
+              "username": "inzamamvirk",
+              "primaryAccountProfileImageUrl": "https://s.gravatar.com/avatar/87d7432982366f3bf92f25b9d6b5bf5b?s=480&r=pg&d=https%3A%2F%2Fstorage.googleapis.com%2Fexpo-website-default-avatars%2Fi-2x.png",
+              "bestContactEmail": "extra69107@gmail.com",
+              "email": "extra69107@gmail.com"
+            }
+          },
+          "subscription": {
+            "__typename": "SubscriptionDetails",
+            "name": "Free",
+            "id": "si_defaultplan",
+            "planId": "price_free",
+            "status": null,
+            "nextInvoice": null
+          },
+          "accountFeatureGates": {
+            "code-signing-account": false,
+            "sso": false,
+            "use-new-orchestrator": true,
+            "account-sso-stub-auth-provider-account": false,
+            "account-sso-generic-auth-provider-account": false,
+            "account-sso-amazon-federate-auth-provider-account": false,
+            "example": true
+          }
+        }
+      ],
+      "bestContactEmail": "extra69107@gmail.com",
+      "featureGates": { "app-nullify-classic-fields": false, "example": true },
+      "githubUser": null,
+      "preferences": {
+        "__typename": "UserPreferences",
+        "selectedAccountName": "inzamamvirk"
+      },
+      "email": "extra69107@gmail.com",
+      "emailVerified": true,
+      "pendingUserInvitations": [],
+      "pinnedDashboardViews": []
+    },
+    "params": {},
+    "accountName": "inzamamvirk",
+    "projectName": null,
+    "fullName": null,
+    "isYou": true,
+    "pathname": "/_next/data/GlcLEL6GeuRr0lb7XwUx6/settings.json",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "headers": {
+      "__universal__": true,
+      "cookie": "_ga=GA1.1.1224834684.1755105945; rl_group_id=RudderEncrypt%3AU2FsdGVkX19J%2FhvbgDIJdR9EJr96KGzkmvbgai5WmWI%3D; rl_group_trait=RudderEncrypt%3AU2FsdGVkX19pYZeyscZalerZGR3EEDIOHVHNHxhZ1q0%3D; rl_anonymous_id=RudderEncrypt%3AU2FsdGVkX198aCoTaf803r17zfbq0DrQYVkIxKD2cQgwu50IhiwZZZLgc%2FAeoeO7mzeKjhWDyBuUCiJFaT0SXg%3D%3D; rl_page_init_referrer=RudderEncrypt%3AU2FsdGVkX19T1%2F1QY%2F2M3tlPhXIQMSrwwvN5RyXAEFY%3D; rl_page_init_referring_domain=RudderEncrypt%3AU2FsdGVkX18YDvUpRdHgHd6V9MKTg%2FAqMrjs8WYmCgY%3D; _rdt_uuid=1755940950719.ccb3a56e-3b09-43fe-bf4b-2e9651335b7d; _ga_FS5QCP5HZ7=GS2.1.s1755940950$o1$g1$t1755940960$j50$l0$h0; io.expo.auth.sessionSecret={%22id%22:%22a383d7b3-43f5-47b5-b608-48c5aba921d0%22%2C%22version%22:1%2C%22expires_at%22:2071440000000}; __hs_cookie_cat_pref=1:true_2:true_3:true; __hstc=47372920.3a4ee8438481da480bedf824bde77426.1755940956938.1755940956938.1755940956938.1; hubspotutk=3a4ee8438481da480bedf824bde77426; __hssrc=1; __hssc=47372920.1.1755940956938; rl_user_id=RudderEncrypt%3AU2FsdGVkX1%2F23vhvztKE3rG4qPmQA1YyTdbLzuXeQcwU3C%2Fa%2Bq3Lp7f4d7MfWlZhO5zmTH2LQ7TU3Tt8GyBMTg%3D%3D; rl_trait=RudderEncrypt%3AU2FsdGVkX18454a9SWsiuBAqmAoz9lsHxq54JxdERHe0taRrNxj5dMx8n4iDFYgPaiIadaCY8jIwXJ4o75kc4Hpyl6WecVqNuFvBjc3d2Ag%3D; rl_session=RudderEncrypt%3AU2FsdGVkX1%2BBDHJYto%2FZ94t4LEhBwmMr42MYw78xXCWmbCwK%2FH9fTlTZa3BL1xw%2FCtP8b5HvnYRdzeMAceWzYYH7g%2F4bJjClt4L6md4Wl6hhgBRiBd47D4KOv1n9QeJZgtUyflTpcTgRMglI3kzJCg%3D%3D",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    "currentDateAsString": "2025-08-23T09:20:55.241Z",
+    "isServerSideRendered": true,
+    "cookies": {
+      "_ga": "GA1.1.1224834684.1755105945",
+      "rl_group_id": "RudderEncrypt:U2FsdGVkX19J/hvbgDIJdR9EJr96KGzkmvbgai5WmWI=",
+      "rl_group_trait": "RudderEncrypt:U2FsdGVkX19pYZeyscZalerZGR3EEDIOHVHNHxhZ1q0=",
+      "rl_anonymous_id": "RudderEncrypt:U2FsdGVkX198aCoTaf803r17zfbq0DrQYVkIxKD2cQgwu50IhiwZZZLgc/AeoeO7mzeKjhWDyBuUCiJFaT0SXg==",
+      "rl_page_init_referrer": "RudderEncrypt:U2FsdGVkX19T1/1QY/2M3tlPhXIQMSrwwvN5RyXAEFY=",
+      "rl_page_init_referring_domain": "RudderEncrypt:U2FsdGVkX18YDvUpRdHgHd6V9MKTg/AqMrjs8WYmCgY=",
+      "_rdt_uuid": "1755940950719.ccb3a56e-3b09-43fe-bf4b-2e9651335b7d",
+      "_ga_FS5QCP5HZ7": "GS2.1.s1755940950$o1$g1$t1755940960$j50$l0$h0",
+      "io.expo.auth.sessionSecret": "{\"id\":\"a383d7b3-43f5-47b5-b608-48c5aba921d0\",\"version\":1,\"expires_at\":2071440000000}",
+      "__hs_cookie_cat_pref": "1:true_2:true_3:true",
+      "__hstc": "47372920.3a4ee8438481da480bedf824bde77426.1755940956938.1755940956938.1755940956938.1",
+      "hubspotutk": "3a4ee8438481da480bedf824bde77426",
+      "__hssrc": "1",
+      "__hssc": "47372920.1.1755940956938",
+      "rl_user_id": "RudderEncrypt:U2FsdGVkX1/23vhvztKE3rG4qPmQA1YyTdbLzuXeQcwU3C/a+q3Lp7f4d7MfWlZhO5zmTH2LQ7TU3Tt8GyBMTg==",
+      "rl_trait": "RudderEncrypt:U2FsdGVkX18454a9SWsiuBAqmAoz9lsHxq54JxdERHe0taRrNxj5dMx8n4iDFYgPaiIadaCY8jIwXJ4o75kc4Hpyl6WecVqNuFvBjc3d2Ag=",
+      "rl_session": "RudderEncrypt:U2FsdGVkX1+BDHJYto/Z94t4LEhBwmMr42MYw78xXCWmbCwK/H9fTlTZa3BL1xw/CtP8b5HvnYRdzeMAceWzYYH7g/4bJjClt4L6md4Wl6hhgBRiBd47D4KOv1n9QeJZgtUyflTpcTgRMglI3kzJCg=="
+    },
+    "isHostingConfigured": null,
+    "resolvedUrl": "/settings"
+  },
+  "__N_SSP": true
+}
